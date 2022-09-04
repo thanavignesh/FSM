@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vmealy_fsm_tb
+Z1 I32mifj7QJ8Jllj=Gbd>oJ1
+Z2 VMnM>4RL0T`T;R>]M6hhf_1
+Z3 dE:\Fsm
+Z4 w1662224203
+Z5 8E:/Fsm/101 testbench.v
+Z6 FE:/Fsm/101 testbench.v
+L0 3
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|E:/Fsm/101 testbench.v|
+Z9 o-work work -O0
+Z10 !s100 g;=dOiOEgE:CA9J35:NGm2
+Z11 !s108 1662224203.309000
+Z12 !s107 E:/Fsm/101 testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmealy_tb
+Z13 !s100 4`5XW@FTSabRzBbcRmBLI0
+Z14 I3EYdQRzX4LzSGZ`h[z_Nn2
+Z15 VdN>=diAiWeV=OJ>_=J1:l3
+R3
+Z16 w1662267753
+R5
+R6
+L0 3
+R7
+r1
+31
+R8
+R9
+Z17 !s108 1662267768.917000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmealyfsm
+Z18 I1AXSd:cVZoIhNY1T:D7Q[0
+Z19 V]5Xn9d5>2I`oJ?MT41:jT3
+R3
+Z20 w1662267741
+Z21 8E:/Fsm/101 ol.v
+Z22 FE:/Fsm/101 ol.v
+L0 3
+R7
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|E:/Fsm/101 ol.v|
+R9
+Z24 !s100 cTHXNKL@9K[hIRVZ:W[MO3
+Z25 !s108 1662267768.819000
+Z26 !s107 E:/Fsm/101 ol.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmoore_tb
+!i10b 1
+Z27 !s100 P9L0?X5BkU^kDL`7UCk4[2
+Z28 I`5kaFUHncMCi^SdlX^=j=1
+Z29 VD0zPCz``GEDK1UeZdQF`40
+R3
+Z30 w1662267472
+Z31 8E:/Fsm/moore 101 ol testbench.v
+Z32 FE:/Fsm/moore 101 ol testbench.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1662267769.119000
+!s107 E:/Fsm/moore 101 ol testbench.v|
+Z33 !s90 -reportprogress|300|-work|work|E:/Fsm/moore 101 ol testbench.v|
+!s101 -O0
+R9
+vmoorefsm
+Z34 !s100 ;3eR[4kY=<=AIUBZdj27g1
+Z35 IAU5VKKDoAAMCfhL>z7Z9@0
+Z36 VDiMSVzDML2g@1MR]G_d:I2
+R3
+Z37 w1662267408
+Z38 8E:/Fsm/moore 101 ol.v
+Z39 FE:/Fsm/moore 101 ol.v
+L0 3
+R7
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|E:/Fsm/moore 101 ol.v|
+R9
+!i10b 1
+!s85 0
+Z41 !s108 1662267769.017000
+Z42 !s107 E:/Fsm/moore 101 ol.v|
+!s101 -O0
+vtb
+Z43 !s100 6gl0ncKOj>B92aYkOm;6a1
+Z44 I34F`UAASLTA>@619G6zg52
+Z45 VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+Z46 w1662224296
+R31
+R32
+L0 1
+R7
+r1
+31
+R33
+R9
+Z47 !s108 1662266497.939000
+Z48 !s107 E:/Fsm/moore 101 ol testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
