@@ -1,0 +1,176 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vmealyfsm
+Z1 IhWiYkmQ;f6dMQlcW2If[g3
+Z2 VQOmhZTUP4CPdPcmoEbeK;0
+Z3 dE:\finate state machine\1101 sequence
+Z4 w1662295240
+Z5 8E:\finate state machine\1101 sequence\1101 ol mealy.v
+Z6 FE:\finate state machine\1101 sequence\1101 ol mealy.v
+L0 1
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 ?nNkSo]K>cTYknkj9P:Ah3
+Z10 !s108 1662295250.061000
+Z11 !s107 E:\finate state machine\1101 sequence\1101 ol mealy.v|
+Z12 !s90 -reportprogress|300|-work|work|E:\finate state machine\1101 sequence\1101 ol mealy.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmealyfsmnol
+Z13 !s100 fKPKi::B@c8dZ2OhL87eN3
+Z14 IB4FM9[j;@PalnHP[nUbn81
+Z15 VIQAb9mKlMF?6^dBcoQUhl1
+R3
+Z16 w1662296972
+Z17 8E:/finate state machine/1101 sequence/1101 nol mealy.v
+Z18 FE:/finate state machine/1101 sequence/1101 nol mealy.v
+L0 3
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 nol mealy.v|
+R8
+Z20 !s108 1662298936.914000
+Z21 !s107 E:/finate state machine/1101 sequence/1101 nol mealy.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmealyfsmol
+Z22 !s100 @iQViDXJkURDjJ1k^Q@2:2
+Z23 ISVKWR6TjM<V`1Ld_iC;g12
+Z24 VS7[<GKDjcE3AA79MW>b<k3
+R3
+Z25 w1662296813
+R5
+R6
+L0 2
+R7
+r1
+31
+R12
+R8
+!i10b 1
+!s85 0
+Z26 !s108 1662298937.261000
+R11
+!s101 -O0
+vmoorefsmnol
+Z27 !s100 3SYPR?o<K_ebRWgWNFjTi1
+Z28 IzFf0<TkFBU6UboDK;7KVR1
+Z29 VW0S9TkzL@WNcU?zQmW^>=3
+R3
+Z30 w1662298630
+Z31 8E:\finate state machine\1101 sequence\1101 nol moore.v
+Z32 FE:\finate state machine\1101 sequence\1101 nol moore.v
+L0 3
+R7
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|E:\finate state machine\1101 sequence\1101 nol moore.v|
+R8
+Z34 !s108 1662298936.734000
+Z35 !s107 E:\finate state machine\1101 sequence\1101 nol moore.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmoorefsmol
+Z36 !s100 n@9QIK`kQ^GH_L:18jN<_3
+Z37 I4EEDlLBG[nJacFU8ohY=a3
+Z38 VMQ9cMk9>]k`d`EhKZALa82
+R3
+Z39 w1662298634
+Z40 8E:/finate state machine/1101 sequence/1101 ol moore.v
+Z41 FE:/finate state machine/1101 sequence/1101 ol moore.v
+L0 3
+R7
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 ol moore.v|
+R8
+Z43 !s108 1662298937.091000
+Z44 !s107 E:/finate state machine/1101 sequence/1101 ol moore.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnol_1101_mealy
+Z45 !s100 YdIAZ?:B=L4<MBLaJz3i61
+Z46 IeYK3@lz>A;QZ81akdNED=3
+Z47 V@:XcFLMbWzg4blK6aLXM61
+R3
+Z48 w1662298353
+Z49 8E:/finate state machine/1101 sequence/1101 nol mealy tb.v
+Z50 FE:/finate state machine/1101 sequence/1101 nol mealy tb.v
+L0 2
+R7
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 nol mealy tb.v|
+R8
+Z52 !s108 1662298937.002000
+Z53 !s107 E:/finate state machine/1101 sequence/1101 nol mealy tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnol_1101_moore
+Z54 !s100 RX:gmOl9K1MPdHj1i`VzB2
+Z55 IciUfOg4cDj;Q4D@1FRf?f0
+Z56 V41LzJ=YzACBBUKZ@K9I`g1
+R3
+Z57 w1662298928
+Z58 8E:/finate state machine/1101 sequence/1101 nol moore tb.v
+Z59 FE:/finate state machine/1101 sequence/1101 nol moore tb.v
+L0 2
+R7
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 nol moore tb.v|
+R8
+Z61 !s108 1662298936.827000
+Z62 !s107 E:/finate state machine/1101 sequence/1101 nol moore tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vol_1101_mealy
+!i10b 1
+Z63 !s100 ZETlI`OBW:b>C7RHN8KOH0
+Z64 II^J7ULe?JblIhDOkdKd6N2
+Z65 VdkOhVUNFBTZ8LR5VbL=>O3
+R3
+w1662298938
+Z66 8E:/finate state machine/1101 sequence/1101 ol mealy rb.v
+Z67 FE:/finate state machine/1101 sequence/1101 ol mealy rb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1662298938.724000
+!s107 E:/finate state machine/1101 sequence/1101 ol mealy rb.v|
+Z68 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 ol mealy rb.v|
+!s101 -O0
+R8
+vol_1101_moore
+Z69 !s100 K0Mhf;ADcGF4L_iWJZeb03
+Z70 I:3m:?iXPBjiEW6lHMkSJQ2
+Z71 Vm8;al@M8eO0^8Sh=9n2Wh0
+R3
+Z72 w1662298415
+Z73 8E:/finate state machine/1101 sequence/1101 ol moore tb.v
+Z74 FE:/finate state machine/1101 sequence/1101 ol moore tb.v
+L0 2
+R7
+r1
+31
+Z75 !s90 -reportprogress|300|-work|work|E:/finate state machine/1101 sequence/1101 ol moore tb.v|
+R8
+Z76 !s108 1662298937.175000
+Z77 !s107 E:/finate state machine/1101 sequence/1101 ol moore tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
