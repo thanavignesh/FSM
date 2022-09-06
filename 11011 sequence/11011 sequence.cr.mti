@@ -1,0 +1,57 @@
+{E:/finate state machine/11011 sequence/11011 nol mealy tb.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 nol mealy tb.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module nol_11011_mealy
+
+Top level modules:
+	nol_11011_mealy
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 nol moore.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 nol moore.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module moorefsmnol
+
+Top level modules:
+	moorefsmnol
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 ol mealy.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 ol mealy.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mealyfsmol
+
+Top level modules:
+	mealyfsmol
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 ol moore tb.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 ol moore tb.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module ol_11011_moore
+
+Top level modules:
+	ol_11011_moore
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 nol mealy.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 nol mealy.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mealyfsmnol
+
+Top level modules:
+	mealyfsmnol
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 nol moore tb.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 nol moore tb.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module nol_11011_moore
+
+Top level modules:
+	nol_11011_moore
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 ol mealy tb.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 ol mealy tb.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module ol_11011_mealy
+
+Top level modules:
+	ol_11011_mealy
+
+} {} {}} {E:/finate state machine/11011 sequence/11011 ol moore.v} {1 {vlog -work work {E:/finate state machine/11011 sequence/11011 ol moore.v}
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module moorefsmol
+
+Top level modules:
+	moorefsmol
+
+} {} {}}

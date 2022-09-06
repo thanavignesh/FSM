@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vmealyfsmnol
+Z1 IYFJ1iM0SZQ]ddcA57_1Ed2
+Z2 V?`OXT]]iREjK7GMj2ANa?1
+Z3 dE:\finate state machine\11011 sequence
+Z4 w1662454534
+Z5 8E:/finate state machine/11011 sequence/11011 nol mealy.v
+Z6 FE:/finate state machine/11011 sequence/11011 nol mealy.v
+L0 4
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 JHIR=6joZj:>TBnkOP08d1
+Z10 !s108 1662454534.424000
+Z11 !s107 E:/finate state machine/11011 sequence/11011 nol mealy.v|
+Z12 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 nol mealy.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmealyfsmol
+Z13 IWjEB6QVnO;MWaOc27AI1Z1
+Z14 Vj0Fm5l`AV?]i[?L@lMa8[2
+R3
+Z15 w1662454508
+Z16 8E:/finate state machine/11011 sequence/11011 ol mealy.v
+Z17 FE:/finate state machine/11011 sequence/11011 ol mealy.v
+L0 3
+R7
+r1
+31
+R8
+Z18 !s100 H]oEV9Nfe?TNZgOZU8>WQ1
+Z19 !s108 1662454535.997000
+Z20 !s107 E:/finate state machine/11011 sequence/11011 ol mealy.v|
+Z21 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 ol mealy.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmoorefsmnol
+Z22 IOE5G4]1Zb]R6bRFnKIok63
+Z23 VmWz]]ie?zbFbBTI5M1M830
+R3
+Z24 w1662453968
+Z25 8E:/finate state machine/11011 sequence/11011 nol moore.v
+Z26 FE:/finate state machine/11011 sequence/11011 nol moore.v
+L0 4
+R7
+r1
+31
+R8
+Z27 !s100 L[<^FzdCV=zG`FmYzTRg[0
+Z28 !s108 1662454535.265000
+Z29 !s107 E:/finate state machine/11011 sequence/11011 nol moore.v|
+Z30 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 nol moore.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmoorefsmol
+Z31 ICMB2CG7N<^akb>hn4z9gR0
+Z32 V7PXZ?^hC[Ui[Hi0m`jC@f2
+R3
+Z33 w1662454343
+Z34 8E:/finate state machine/11011 sequence/11011 ol moore.v
+Z35 FE:/finate state machine/11011 sequence/11011 ol moore.v
+L0 3
+R7
+r1
+31
+R8
+!i10b 1
+Z36 !s100 20FN9fdd]6f6M66cUU=D83
+!s85 0
+Z37 !s108 1662454536.714000
+Z38 !s107 E:/finate state machine/11011 sequence/11011 ol moore.v|
+Z39 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 ol moore.v|
+!s101 -O0
+vnol_11011_mealy
+Z40 IjBX=iACMHBzQddH@?d0B00
+Z41 VQUZiIfaT>3YMfAQ?4]e]n0
+R3
+Z42 w1662454535
+Z43 8E:/finate state machine/11011 sequence/11011 nol mealy tb.v
+Z44 FE:/finate state machine/11011 sequence/11011 nol mealy tb.v
+L0 2
+R7
+r1
+31
+R8
+Z45 !s100 G_P5^K8f;W=UgInCf@j=Z3
+Z46 !s108 1662454535.176000
+Z47 !s107 E:/finate state machine/11011 sequence/11011 nol mealy tb.v|
+Z48 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 nol mealy tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnol_11011_moore
+Z49 I_HUUhKV4AOYkE@IegF1FO1
+Z50 VK:BI3^hHh@[I:];b;4lDJ2
+R3
+R42
+Z51 8E:/finate state machine/11011 sequence/11011 nol moore tb.v
+Z52 FE:/finate state machine/11011 sequence/11011 nol moore tb.v
+L0 2
+R7
+r1
+31
+R8
+Z53 !s100 A@KIi@cVB3hz99l;[d1Eg1
+Z54 !s108 1662454535.914000
+Z55 !s107 E:/finate state machine/11011 sequence/11011 nol moore tb.v|
+Z56 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 nol moore tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vol_11011_mealy
+Z57 I;A=EfaAI891OChQg20HSA0
+Z58 V>SFzYc]ND`RhE2Anf@j`T2
+R3
+Z59 w1662454536
+Z60 8E:/finate state machine/11011 sequence/11011 ol mealy tb.v
+Z61 FE:/finate state machine/11011 sequence/11011 ol mealy tb.v
+L0 2
+R7
+r1
+31
+R8
+Z62 !s100 34=g_WZKWQW:1cC`_gQ>32
+Z63 !s108 1662454536.627000
+Z64 !s107 E:/finate state machine/11011 sequence/11011 ol mealy tb.v|
+Z65 !s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 ol mealy tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vol_11011_moore
+!i10b 1
+!s100 W<N8Z15Te`b_:VOFdEZ0>1
+IKKK4>oK]Q][fcQAOfYVlG3
+V<O0>zmN]mYKXF[5FgN[gm2
+R3
+w1662454537
+8E:/finate state machine/11011 sequence/11011 ol moore tb.v
+FE:/finate state machine/11011 sequence/11011 ol moore tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1662454537.334000
+!s107 E:/finate state machine/11011 sequence/11011 ol moore tb.v|
+!s90 -reportprogress|300|-work|work|E:/finate state machine/11011 sequence/11011 ol moore tb.v|
+!s101 -O0
+R8
